@@ -14,3 +14,10 @@ Asset Schedule
 DebT Schedule 
 Working Capital Schedule 
 DCF valuation
+
+## Tools Used 
+Microsoft Excel
+Financial Modelling techniques 
+
+
+
